@@ -1,0 +1,10 @@
+.compound-interest-container {
+  height: 87vh;
+  color: aliceblue;
+  font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
